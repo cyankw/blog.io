@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "----"
+description: ""
 header-img: "img/orange.jpg"
 ---
 

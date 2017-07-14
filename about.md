@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "Guess who am i. "
+description: "Who i am. "
 header-img: "img/blue.jpg"
 ---
 
@@ -16,7 +16,7 @@ a student, and a geek; a hacker, and  a programmer.
 
 Does that answer your question?... 
 
-Sincerely yours,. 
+Sincerely yours, . 
 
 
 
