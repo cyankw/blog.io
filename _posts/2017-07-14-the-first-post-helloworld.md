@@ -8,10 +8,10 @@ description:
 
 ---
 
- ##Helloworld
+## Helloworld
 
 This is the first post on my blog.
 
 
-This templet forked from [cnfeat](http://www.ccnfeat.com), thanks A LOT.
+This templet forked from [cnfeat](http://www.cnfeat.com/), thanks A LOT.
 
