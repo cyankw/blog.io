@@ -3,12 +3,12 @@ layout: post
 title: BadUSB 防御初探
 date: 2017-7-14
 categories: blog
-tags:[BadUSB]
+tags: [BadUSB]
 
 
 ---
 layout: post
-title: BadUSB 防御初探
+title: BadUSB 防御初探222
 date: 2017-7-14
 categories: blog
 tags: [BadUSB]
