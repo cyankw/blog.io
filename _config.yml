@@ -10,7 +10,7 @@ url: "https://cyankw.github.io/"
 owner: 
   name: " Cyankw"
   email: zwyx2000@126.com
-  bio: "写就是写的报酬"
+  bio: ""
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "cyankw"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
