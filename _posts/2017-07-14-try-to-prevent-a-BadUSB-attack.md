@@ -4,9 +4,9 @@ title: BadUSB 防御初探
 date: 2017-7-14
 categories: blog
 tags: [BadUSB]
-description: 
 
 ---
+
 
 有关BadUSB的防御的中文内容实在有限，且多为建议。本文受一篇国外技术性文章(https://heimdalsecurity.com/blog/badusb-exploit-vulnerability-fix/)的启发，笔者对其进行翻译，改进，和一些必要的补充，尝试对windows环境下的BadUSB的具体防御方法进行探究。
 
