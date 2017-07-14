@@ -31,10 +31,10 @@ tags: [BadUSB]
 此处电脑使用GUID来区分不同种类的设备类型，下面给出常用的设备类型对应的GUID。
 Devices		|GUID
  --------------- | --------------------- 
-Keyboard		|4D36E96B-E325-11CE-BFC1-08002BE10318
-Mouse   		|4D36E96F-E325-11CE-BFC1-08002BE10318
-Net     		|4D36E972-E325-11CE-BFC1-08002BE10318
-Bluetooth 	    |E0CBF06C-CD8B-4647-BB8A-263B45F0F974
+Keyboard		| 4D36E96B-E325-11CE-BFC1-08002BE10318
+Mouse   		| 4D36E96F-E325-11CE-BFC1-08002BE10318
+Net     		| 4D36E972-E325-11CE-BFC1-08002BE10318
+Bluetooth 	    | E0CBF06C-CD8B-4647-BB8A-263B45F0F974
 更多内容可参见设备类型对应GUID可参考http://blog.csdn.net/jhqin/article/details/6732299
 
 ### 2. 对单一设备的安装限制策略
