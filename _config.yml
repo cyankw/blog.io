@@ -1,14 +1,14 @@
 # Site settings
-title: Cyan-ite's world
+title: dRl's world
 header-img: "img/blue.jpg"
 tagline: "en"  
-description: "cyan-ite|a geek"  
+description: "dRl|a geek"  
 baseurl: ""
 url: "https://cyankw.github.io/"  
 
 # About/contact
 owner: 
-  name: " Cyan-ite"
+  name: " dRl"
   email: zwyx2000@126.com
   bio: ""
 
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "cyan-ite"
+      author: "dRl"
       header-img: "img/blue.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
