@@ -5,9 +5,9 @@
 forked from [cnfeat](http://www.cnfeat.com/), THANKS!
 > 此博客 fork 自 [Azeril](http://azeril.me/)，感谢。
 
-## CYANKW
+## CYAN-ITE
 
-I am cyankw, a student, and a geek; a hacker, and  a programmer.
+I am 'cyan-ite', a student, and a geek; a hacker, and  a programmer.
 Does that answer your question?... 
 Sincerely yours,. 
 

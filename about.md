@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "Guess who am i. "
-header-img: "img/green.jpg"
+header-img: "img/blue.jpg"
 ---
 
 
@@ -10,7 +10,7 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-I am cyankw, 
+I am cyan-ite, 
 
 a student, and a geek; a hacker, and  a programmer.
 
