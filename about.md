@@ -17,9 +17,7 @@ a student, and a geek; a hacker, and  a programmer.
 Does that answer your question?... 
 
 Sincerely yours,. 
-<center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
-</center>
+
 
 
 
