@@ -5,9 +5,10 @@ date: 2017-7-14
 categories: blog
 tags: [BadUSB]
 description: 
-有关BadUSB的防御的中文内容实在有限，且多为建议。本文受一篇国外技术性文章(https://heimdalsecurity.com/blog/badusb-exploit-vulnerability-fix/)的启发，笔者对其进行翻译，改进，和一些必要的补充，尝试对windows环境下的BadUSB的具体防御方法进行探究。
+
 ---
 
+有关BadUSB的防御的中文内容实在有限，且多为建议。本文受一篇国外技术性文章(https://heimdalsecurity.com/blog/badusb-exploit-vulnerability-fix/)的启发，笔者对其进行翻译，改进，和一些必要的补充，尝试对windows环境下的BadUSB的具体防御方法进行探究。
 
 ### BadUSB
 “BadUSB”是近年来计算机安全领域的持续升温的话题之一，该漏洞由Karsten Nohl和Jakob Lell共同发现，并在2014年的BlackHat安全大会上公布。BadUSB攻击属于HID攻击(Human InterfaceDevice，是计算机直接与人交互的设备，例如键盘、鼠标等)的一种，通过将普通u盘通过改写固件模拟成一个虚拟键盘，并模拟键盘输入攻击指令达成入侵目的。
