@@ -2,6 +2,9 @@
 layout: page
 description: "dRl"
 ---
+
+{% for post in paginator.posts %}
+<div class="post-preview">
 <script>
 function clear() {
 Source=document.body.firstChild.data;
@@ -10,8 +13,6 @@ document.close();
 document.body.innerHTML=Source;
 }
 </script>
-{% for post in paginator.posts %}
-<div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            
             {{ post.title }}
