@@ -10,7 +10,9 @@ tags: [SecurityEnhance] [gpedit.msc]
 
 ### 注意
 本文仅在win10家庭版上进行过测试
+
 本工具原作者：jwils876-d3kh6vm
+
 本文翻译自https://www.itechtics.com/easily-enable-group-policy-editor-gpedit-msc-in-windows-10-home-edition/
 
 ### 1. 下载gpedit.msc 安装包
@@ -27,4 +29,4 @@ https://github.com/dRl-l/resource-backup/raw/master/add_gpedit_msc/add_gpedit_ms
 “GroupPolicy“， ”GroupPolicyUsers”， “gpedit.msc”
 
 
-转载请注明原地址https://drl-l.github.io/blog/2017/07/14/Try-to-stop-a-BadUSB-attack/
+转载请注明原地址https://drl-l.github.io/2017/10/23/2017-10-22-Install-gpedit-msc/
