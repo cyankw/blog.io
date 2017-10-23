@@ -3,7 +3,7 @@ layout: post
 title: 安装组策略编辑器 gpedit.msc
 date: 2017-10-22-22:09
 categories: blog
-tags: [SecurityEnhance][gpedit.msc]
+tags: [SecurityEnhance, gpedit.msc]
 description: 
 
 ---
