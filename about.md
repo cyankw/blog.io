@@ -12,11 +12,10 @@ header-img: "img/blue.jpg"
 
 I am dRl, 
 
-a student, and a geek; a hacker, and  a programmer.
+a student interest in programming
 
-Does that answer your question?... 
-
-Sincerely yours, . 
+Contact me:
+<a href="mailto:clay2pws@gmail.com">clay2pws@gmail.com</a>  
 
 
 
