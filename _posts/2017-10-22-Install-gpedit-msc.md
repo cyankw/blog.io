@@ -28,4 +28,4 @@ description:
 “GroupPolicy“， ”GroupPolicyUsers”， “gpedit.msc”
 
 
-转载请注明原地址[https://drl-l.github.io/2017/10/23/2017-10-22-Install-gpedit-msc/](https://drl-l.github.io/2017/10/23/2017-10-22-Install-gpedit-msc/)
+转载请注明原地址[https://drl-l.github.io/blog/2017/10/22/Install-gpedit-msc/](https://drl-l.github.io/blog/2017/10/22/Install-gpedit-msc/)
